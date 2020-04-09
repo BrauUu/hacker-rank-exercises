@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//https://www.hackerrank.com/challenges/solve-me-first
+
 public class SimpleSum {
 	
 	static int simpleSum(int a, int b) {

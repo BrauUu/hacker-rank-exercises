@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/simple-array-sum
+
 public class ArraySum {
 	
 	static Scanner input = new Scanner(System.in);
