@@ -1,11 +1,10 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/java-datatypes
+
 public class IntegerDatatypes{
-    public static void main(String []argh)
-    {
-
-
-
+    public static void main(String []argh) {
+    
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
 

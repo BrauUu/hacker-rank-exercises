@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/java-loops-i
+
 public class JavaLoops1 {
 
     private static final Scanner scanner = new Scanner(System.in);

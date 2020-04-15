@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//https://www.hackerrank.com/challenges/staircase
+
 public class Staircase {
 
     static void staircase(int n) {

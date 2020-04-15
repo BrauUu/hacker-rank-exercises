@@ -1,11 +1,9 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/time-conversion
 
 public class TimeConversion {
 
-    /*
-     * Complete the timeConversion function below.
-     */
     static String timeConversion(String s) {
         String[] time = s.split(":");
         String[] timeF;
