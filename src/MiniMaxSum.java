@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/mini-max-sum
+
 public class MiniMaxSum {
 	
     static void miniMaxSum(int[] arr) {
