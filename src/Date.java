@@ -1,8 +1,7 @@
-
-
 import java.util.*;
+import java.time.LocalDate;
 
-import java.time.*;
+//https://www.hackerrank.com/challenges/java-date-and-time
 
 class Result {
 
@@ -13,7 +12,6 @@ class Result {
     }
 
 }
-
 
 public class Date {
 	

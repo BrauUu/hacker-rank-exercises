@@ -1,8 +1,6 @@
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
+//https://www.hackerrank.com/challenges/java-static-initializer-block
 
 public class StaticInitializeBlock {
 	
