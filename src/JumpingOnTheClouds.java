@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/jumping-on-the-clouds
+
 public class JumpingOnTheClouds {
 
     static int jumpingOnClouds(int[] c) {
