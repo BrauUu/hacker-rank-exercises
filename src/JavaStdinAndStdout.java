@@ -13,5 +13,7 @@ public class JavaStdinAndStdout {
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
+        
+        input.close();
     }
 }

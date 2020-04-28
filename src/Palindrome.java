@@ -11,6 +11,6 @@ public class Palindrome {
 		
 		System.out.println(word.equals(new StringBuilder(word).reverse().toString())?"Yes":"No");
 		
-		
+		input.close();
 	}
 }

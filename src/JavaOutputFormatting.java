@@ -32,6 +32,7 @@ public class JavaOutputFormatting {
             }
             
             System.out.println("================================");
+            sc.close();
     }
 }
 

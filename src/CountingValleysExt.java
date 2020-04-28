@@ -9,7 +9,6 @@ public class CountingValleysExt {
     	char[] array = s.toCharArray();
     	int D = 0, U = 0;
     	int level = 0;
-    	int seqU = 0, seqD = 0;
     	
     	for(char c: array) {
     		if(c == 'U') {

@@ -22,6 +22,6 @@ public class JavaLoops2{
 
             System.out.print("\n");
         }
-        
+        in.close();
     }
 }
