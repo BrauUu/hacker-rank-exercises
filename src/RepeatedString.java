@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/repeated-string
+
 public class RepeatedString {
 
     static long repeatedString(String s, long n) {
