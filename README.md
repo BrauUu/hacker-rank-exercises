@@ -1,3 +1,3 @@
 # hacker.rank.exercises
 ![hackerrank](hacker-rank.png)  
-Aqui estão localizadas as resoluções de alguns desafios do site [Hacker Rank](https://www.hackerrank.com/dashboard).
+Here are some of my [Hacker Rank's](https://www.hackerrank.com/dashboard) solutions with Java.
